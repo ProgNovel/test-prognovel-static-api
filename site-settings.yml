@@ -1,0 +1,12 @@
+site_title: ProgNovel App
+contact: example@email.com
+disqus_id: null
+image_resizer_service: https://image-resizer.fly.dev/
+novels:
+  - yashura-legacy
+limit_global_payment_pointers_share_in_novel: 30%
+rev_share_contribution_per_chapter:
+  author: 5
+  translator: 4
+  editor: 3
+  proofreader: 2
