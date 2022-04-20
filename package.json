@@ -7,7 +7,7 @@
     "build": "prognovel build"
   },
   "dependencies": {
-    "@prognovel/cli": "^0.8.0"
+    "@prognovel/cli": "^0.8.2"
   },
   "keywords": [],
   "author": "",
